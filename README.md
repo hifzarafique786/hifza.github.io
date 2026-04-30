@@ -43,7 +43,7 @@ Welcome to my GitHub portfolio! I am a passionate **BS Computer Science student*
 
 ### 🔊 Ultrasonic Distance Sensor Project
 Developed a hardware-based project using an ultrasonic sensor to measure distance accurately. This project helped me understand embedded systems and real-time data processing.
-Screenshot 2026-04-30 114136.png
+linkedin dashboard (Screenshot 2026-04-30 114136.png)
 
 ### 🎮 Tic Tac Toe Game (C++)
 Created a fully functional console-based Tic Tac Toe game using C++. The project includes two-player mode, input validation, and game logic implementation.
